@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="BN-VN3S"><title>BN-VN3S</title><rect width="512" height="512" rx="112" fill="#0B1220"/><rect x="1.5" y="1.5" width="509" height="509" rx="110.5" fill="none" stroke="#0E7490" stroke-opacity=".5" stroke-width="3"/><g transform="translate(94 106) scale(3.0)">
+  <defs>
+    <linearGradient id="ig" x1="12" y1="0" x2="82" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0E7490"/><stop offset="1" stop-color="#67E8F9"/>
+    </linearGradient>
+    <radialGradient id="ir" cx="80" cy="50" r="20" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#67E8F9" stop-opacity=".55"/><stop offset="1" stop-color="#67E8F9" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <g fill="none" stroke="url(#ig)" stroke-width="6" stroke-linecap="round">
+    <path d="M18 20 C 46 20, 52 50, 78 50"/>
+    <path d="M14 50 L 78 50"/>
+    <path d="M18 80 C 46 80, 52 50, 78 50"/>
+  </g>
+  <g fill="#0B1220" stroke="#22D3EE" stroke-width="3.5">
+    <circle cx="18" cy="20" r="6"/><circle cx="14" cy="50" r="6"/><circle cx="18" cy="80" r="6"/>
+  </g>
+  <circle cx="80" cy="50" r="20" fill="url(#ir)"/>
+  <circle cx="80" cy="50" r="15" fill="none" stroke="#67E8F9" stroke-opacity=".45" stroke-width="2"/>
+  <circle cx="80" cy="50" r="9" fill="#67E8F9"/>
+</g></svg>
