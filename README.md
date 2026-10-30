@@ -64,6 +64,6 @@
   <img src="./assets/bnvn3s-logo-light.svg" width="300" alt="BN-VN3S  Source Signal Sense" />
 </picture>
 
-<sub>Open to research collaborations & applied AI projects 🤝</sub>
+<a href="mailto:chaubaonhan89@gmail.com"><img src="./assets/collab-cta.svg" width="100%" alt="Open to research collaborations &amp; applied AI projects 🤝" /></a>
 
 </div>
